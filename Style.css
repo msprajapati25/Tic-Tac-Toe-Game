@@ -84,3 +84,7 @@ h1 {
   background-color: #344e41;
   cursor: pointer;
 }
+
+.resetbtnhide{
+  display: none;
+}
